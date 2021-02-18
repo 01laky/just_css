@@ -1,4 +1,4 @@
-[name|=custom_field_26783] {
-  pointer-events: none;
+[name^=custom-field-group] input {
+  pointer-events: none!important;
   background-color: #dddddd!important;
 }
